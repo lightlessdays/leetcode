@@ -2,6 +2,8 @@
 LOGIC: we have an integer array with x position and y position. We will then iterate through each charachter in the string moves. 
 If the charachter is U, we will add a position to the Y axis. If it is D, we will subtract a number from Y axis and so on... 
 In the end, we will check if both X and Y are 0. If they are indeed 0, we will return true, else we will return false.
+
+Link: https://leetcode.com/problems/robot-return-to-origin/
 ***/
 
 class Solution {
