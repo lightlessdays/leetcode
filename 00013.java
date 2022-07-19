@@ -1,4 +1,4 @@
-//SOLUTION: https://leetcode.com/problems/roman-to-integer/
+//QUESTION: https://leetcode.com/problems/roman-to-integer/
 //LOGIC: REPLACE IV, IX, XL, ETC. WITH ONE SUSBTITUTE LETTER.
 //ASSIGN EACH SUBSTITUTE LETTER A NUMBER.
 //ADD ALL THE NUMBERS TOGETHER.
