@@ -5,6 +5,9 @@
  *			      1 if num is lower than the picked number
  *               otherwise return 0
  * int guess(int num);
+ 
+ LINK: https://leetcode.com/problems/guess-number-higher-or-lower/
+ LOGIC: BINARY SEARCH ALGORITHM
  */
 
 public class Solution extends GuessGame {
