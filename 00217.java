@@ -1,3 +1,9 @@
+/*
+LOGIC: SORT THE ARRAY AND THEN CHECK IF CONSECUTIVE ELEMENTS ARE EQUAL. IF CONSECUTIVE ELEMENTS ARE EQUAL, RETURN TRUE, ELSE RETURN FALSE.
+
+LINK: https://leetcode.com/problems/contains-duplicate/
+*/
+
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         if (nums == null || nums.length == 0) return false;
